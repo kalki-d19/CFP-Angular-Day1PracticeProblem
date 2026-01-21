@@ -12,3 +12,9 @@ button{
     height: 20px;
     border: solid black 1px;
 }
+.error-output{
+    margin-left: 10px;
+    font-size: 12px;
+    font-style: italic;
+    color: red;
+}
